@@ -14,7 +14,8 @@ OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 
 - Python 3.12 or later
   - After installing Python, use pip to install the following packages:
-    - `pip install openai networkx leidenalg cdlib python-igraph python-dotenv`
+    - `conda install --yes --file requirements_conda.txt`
+    - `pip install -r requirements_pip.txt`
 
 ## Implementation
 

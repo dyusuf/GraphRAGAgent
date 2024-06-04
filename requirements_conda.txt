@@ -1,0 +1,12 @@
+openai
+networkx
+leidenalg
+cdlib
+python-igraph
+python-dotenv
+gmpy2
+wurlitzer
+infomap
+pyclustering
+graph-tool
+graph-tool-base
